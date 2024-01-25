@@ -15,4 +15,18 @@ let valueInNumber = Number (score);
 
 let someNumber = 33;
 let StringNumber = String(someNumber)
-console.log(typeof StringNumber);
+// console.log(typeof StringNumber);
+
+// operations
+
+let value =3
+let negvalue = - value;
+// console.log(negvalue);
+
+let str1 = "hello " 
+let str2 =" My name is"
+let str3 =" soumadip"
+let str4=str1+str2+str3
+
+console.log(str4);
+
